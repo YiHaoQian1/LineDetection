@@ -1,5 +1,5 @@
 import os
-import tensorflow as tf
+
 # dataset directory
 input_dir = '/Users/yihao/Downloads/HW4/'
 # label and image set directory
