@@ -1,0 +1,4 @@
+image_set/0.jpg  label_set/0.png
+image_set/1.jpg  label_set/1.png
+image_set/2.jpg  label_set/2.png
+image_set/3.jpg  label_set/3.png
